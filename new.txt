@@ -1,2 +1,3 @@
-bot 
-gim
+bob
+jim
+mary
